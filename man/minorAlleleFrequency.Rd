@@ -9,6 +9,7 @@
 Function to calculate Minor Allele Frequency from SNPs
 }
 \description{
+This package calculates minor allele frequencies
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
@@ -31,7 +32,7 @@ This sets the minimum minor allele frequency, commonly 0.05
 }
 %%\details{
 %%  ~~ If necessary, more details than the description above ~~
-}
+%}
 \value{
 %%  ~Describe the value returned
 %%  If it is a LIST, use
@@ -43,7 +44,7 @@ mafHis draws a histogram plot of the MAF and does not return anything
 }
 %%\references{
 %% ~put references to the literature/web site here ~
-}
+%}
 \author{
 Lucas Roberts
 }
@@ -56,7 +57,7 @@ Most of this code was provided by Lindsay Clark
 
 %%\seealso{
 %% ~~objects to See Also as \code{\link{help}}, ~~~
-}
+%}
 \examples{
 %%##---- Should be DIRECTLY executable !! ----
 %%##-- ==>  Define data, use random,
